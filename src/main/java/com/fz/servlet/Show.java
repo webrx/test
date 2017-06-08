@@ -27,9 +27,9 @@ public class Show extends HttpServlet {
         out.println("<meta name=\"description\" content=\"简介\">");
         out.println("</head>");
         out.println("<body>");
-        out.println("<h3>Hello World</h3>");
-        out.println("<h3>Hello World</h3>");
-        out.println("<h3>Hello World</h3>");
+        out.println("<h3>Hello World1</h3>");
+        out.println("<h3>Hello World2</h3>");
+        out.println("<h3>Hello World3</h3>");
         out.println("</body>");
         out.println("</html>");
         out.flush();
